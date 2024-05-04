@@ -18,7 +18,17 @@ Allows easy customization of the icon that is displayed when using the Windows 1
 
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/1ea77317-fe3e-4314-b6a9-c6a952e454c5)
 * Windows 11
-* 
+
+### Search
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/5af3e9ae-6c00-4242-ab3c-2e961d02a55d)
+* Old searco icon
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/f71485a8-2306-45b5-8619-a86eeb2743c7)
+* New search icon
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/fe0a3180-ad61-4e6f-8de1-5f07fdeea771)
+* Search box
 ### Combine taskbar icons on primary/secondary taskbar(s)
 This allows you to choose the behavior of the Windows taskbar in regards to how the icons of the running programs act:
 
