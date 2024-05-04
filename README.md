@@ -44,13 +44,35 @@ This allows you to choose the behavior of the Windows taskbar in regards to how 
 * Large (default)
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/aaf767b2-fc73-4754-a4e0-12b61d721e7d)
 * Small
+
+## Windows 11 Start menu
+### Search bar
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/17089e93-b173-4754-a634-cc2d915b73ff)
+* New Search bar (default)
+  
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/f4f27f72-2c4c-46f6-a11c-55a6bf84fec1)
+* Old Search bar
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/44d41584-22d6-45f4-ac17-5f36d2b60fe5)
+* Hide search bar
+
 ## Windows 10 Start menu
-### Theme-Aware tiles
+
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/2b9f5b5f-39be-4e20-98b5-6274ecf86d5d)
-* On (default)
+* Theme-Aware tiles: On (default)
   
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/97646279-1c72-4295-b9cd-70afd2a28f53)
-* Off
+* Theme-Aware tiles: Off
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/56522270-4fb5-4ede-956b-d90f80cc1754)
+* Show Recently added
+
+![windows-10-start-menu-most-used](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/af0f6294-54f7-4a3b-bbb8-4b0f97d5bf57)
+* Show Most used
+  
+![Start-menu-comparison (2)](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/24c9f4c6-3fce-47d8-9263-0aeda51ce7c1)
+* Show Suggested
 ## System tray
 ### Skin taskbar and tray pop-up menus
 
@@ -69,14 +91,6 @@ This makes the context menus for the network, volume, battery, Bluetooth and "Sa
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/4ad0ba44-5a84-41fb-9539-4cc15ebee7f8)
 * Show seconds in the clock
 
-## Windows 11 Start menu
-### Search bar
-
-![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/17089e93-b173-4754-a634-cc2d915b73ff)
-* New Search bar (default)
-  
-![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/f4f27f72-2c4c-46f6-a11c-55a6bf84fec1)
-* Old Search bar
 ## Search menu
 
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/8c3c25bb-1159-4636-9469-21211ac59eed)
@@ -108,6 +122,13 @@ Configure the appearance of the Snap Assist functionality:
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/97f82e61-13ff-467d-86cc-aa1bf1d689d3)
 * Windows 10 appearance
 
+## Task View
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/dae8c388-188f-44eb-8f5b-43ac90ede0ac)
+* Windows 11 (default)
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/d5c3b1df-12c2-4e0f-b3af-59358bd9f1ab)
+* Windows 10 AcrylicTaskViewTimeline: 12520383
 ## File Explorer style
 * Windows 11 Command Bar (default)
 * Windows 10 Ribbon UI
