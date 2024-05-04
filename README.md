@@ -73,3 +73,36 @@ This makes the context menus for the network, volume, battery, Bluetooth and "Sa
 * Windows 11 (default)
 ![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/942a7c5e-cb1f-4c35-830e-16337a91f6f7)
 * Windows 10
+## Window switcher
+### Window switcher (Alt-Tab) style
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/464a16b1-8753-4324-876e-fc99d007797f)
+* Windows 11 switcher: Full screeen, slow, tiny selection outline, slow opening times
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/aaad9d32-5181-42f6-9d28-3eb0215a6a03)
+* Windows 10 switcher: Pretty good but lacks customization options
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/a76b06ce-3130-42e0-be6b-d66050b26365)
+* Windows NT switcher: The classic simple icon-based interface hosted by csrss
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/5dd87897-ca7b-449f-8ebb-d900b8ee21ec)
+* Simple Window Switcher: My own take on implementing this kind of functionality
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/f192823a-2fbb-405a-8ad4-95068e41fbbf)
+* 3D Aero Flip switcher
+## Snap Assist style
+Configure the appearance of the Snap Assist functionality:
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/e3a6e9ec-43c7-4bb6-a238-da72be00859d)
+* Windows 11 appearance (default)
+
+![image](https://github.com/XuanChen1234/Windows11PersonalizedModificationToolProject/assets/140480110/97f82e61-13ff-467d-86cc-aa1bf1d689d3)
+* Windows 10 appearance
+
+## File Explorer style
+* Windows 11 Command Bar (default)
+* Windows 10 Ribbon UI
+* Windows 8 Command Bar
+* Windows 7 Command Bar
+
+## Other
+
